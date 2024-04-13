@@ -1,0 +1,17 @@
+.logo{
+    width: 200px;
+    height: 78px;
+ 
+    display: flex;
+    align-items: center;
+    
+}
+.logo h1 {
+    letter-spacing: 0.05em;
+    line-height: 1.2em;
+    font-size: 28px;
+    font-family: "Sedan", serif;
+    font-weight: 100;
+    font-style: normal;
+    color: rgb(255, 255, 255);
+}

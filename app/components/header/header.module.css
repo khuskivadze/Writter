@@ -1,0 +1,18 @@
+.header{
+    max-width: 2000px;
+    width: 1455px;
+    height: 115px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 32%;
+   
+   
+}
+.line{
+    width: 1320px;
+    height: 1px;
+    border-bottom: 1px solid white;
+    margin: auto;
+}
+
