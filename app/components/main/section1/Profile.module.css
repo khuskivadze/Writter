@@ -1,0 +1,56 @@
+
+
+.section{
+    width: 1455px;
+    height: 226.5px;
+    display: flex;
+    align-items: center;
+    justify-content:  center;
+    
+    
+}
+
+.container{
+    width: 1300px;
+    height: 225px;
+  
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 20%;
+}
+.profile{
+    width: 238px;
+    height: 263px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.profile img{
+    width: 238px;
+    height: 263px;
+    margin-top: 65%;
+}
+
+.title{
+    width: 550px;
+    height: 150px;
+
+}
+
+.title h1 {
+    color: rgb( 254, 128, 93);
+    font-size: 85px;
+    letter-spacing: normal;
+    font-family: "Cormorant Garamond", serif;
+    font-weight: 400;
+    font-style: normal;
+}
+
+.title span {
+    color: rgb(255, 255, 255);
+    font-size: 23px;
+ 
+    font-weight: 200;
+    font-style: normal;
+}

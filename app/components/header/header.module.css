@@ -10,9 +10,9 @@
    
 }
 .line{
-    width: 1320px;
+    width: 1280px;
     height: 1px;
     border-bottom: 1px solid white;
-    margin: auto;
+    margin: 0 5%;
 }
 

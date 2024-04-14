@@ -1,0 +1,100 @@
+
+
+.card{
+    width: 974px;
+    height: 605px;
+    background-color: rgba(23, 22, 28, .8);
+    display: flex;
+    align-items: center;
+    gap: 11%;
+}
+
+.title{
+    width: 450px;
+    height: 543px;
+    display: flex;
+    flex-direction: column;
+  
+    justify-content: space-around;
+}
+
+.text{
+    width: 200px;
+    height: 30px;
+    background-color: rgb( 254, 128, 93);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    line-height: 1.7em;
+    font-size: 17px;
+   
+}
+
+.text h1 {
+    line-height: 1.7em;
+    font-size: 17px;
+    font-weight: 100;
+}
+.main_title h1 {
+    width: 300px;
+   font-size: 45px;
+   color: rgb(255, 255, 255);
+   font-family: "Cormorant Garamond", serif;
+   font-weight: 500;
+   font-style: normal;
+   margin-left: 8%;
+}
+.span {
+    width: 303px;
+    height: 202px;
+    line-height: 1.7em;
+    font-size: 17px;
+    color: rgb(255, 255, 255);
+    font-weight: 100;
+    margin-left: 9%;
+   
+}
+.order a {
+    font-size: 23px;
+    color: rgb(255, 255, 255);
+    font-weight: 300;
+    margin-left: 9%;
+}
+
+.buttons{
+    width: 400px;
+    height: 65px;
+  
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+
+.buttons button {
+    width: 118px;
+    height: 40px;
+    background: none;
+    border: 1px solid rgb( 254, 128, 93);
+    border-radius: 20px;
+    margin-left: 9%;
+    color: rgb( 254, 128, 93);
+    cursor: pointer;
+    transition: all 1s ease;
+}
+.buttons button:hover{
+   
+    background-color: rgb( 254, 128, 93);
+    color: rgb(0, 0, 0);
+}
+
+
+
+.poster{
+    width: 385px;
+    height: 543px;
+}
+.poster img{
+    width: 100%;
+    height: 100%;
+}

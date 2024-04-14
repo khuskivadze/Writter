@@ -1,0 +1,21 @@
+
+.cover {
+    width: 1455px;
+    height: 1002px;
+    background-image: url('/ad420a_0966fded081b4a12988a616e305424d1~mv2.webp');
+    background-repeat: no-repeat;
+  background-size: cover;
+    
+    background-attachment: fixed;
+    
+    
+}
+
+.overlay{
+    width: 1455px;
+    height: 1002px;
+    background-color: rgba(0,0,0, .7);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
